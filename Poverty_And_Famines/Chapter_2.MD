@@ -24,3 +24,7 @@ Approaches to Conceptualization of Poverty:
 
   While the biological approach and each of it's procedures can be reasonably argued and criticized, the approach is not to be disregarded completely. Despite the vague nature of the definition of minimum nutrition it is an inherent aspect of the definition and identification of povery, therefore it is not necessarily a condition to completely exclude approach from consideration. Regarding focus on the income, it is something that can be properly omitted or made more precise by including observations of community's habits and behavior. The approach centers around food, which is not necessarily a drawback, since of all the characteristics of poverty, this one has a greater significance
 
+Inequality: one of the main advantages of labeling poverty as inequality is the nature of action taken towards inequality. Rather than treating the problem as an area to study and approach it with redundant theorizing and pseudoscience, it focuses on the gap between lowest socioeconomic group to the rest and reducing it.
+A few problems regarding this approach:
+  1) Fails to identify decadence in poverty, due to it's somewhat comparative and non-empirical nature. If 
+
