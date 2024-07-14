@@ -24,7 +24,26 @@ Approaches to Conceptualization of Poverty:
 
   While the biological approach and each of it's procedures can be reasonably argued and criticized, the approach is not to be disregarded completely. Despite the vague nature of the definition of minimum nutrition it is an inherent aspect of the definition and identification of povery, therefore it is not necessarily a condition to completely exclude approach from consideration. Regarding focus on the income, it is something that can be properly omitted or made more precise by including observations of community's habits and behavior. The approach centers around food, which is not necessarily a drawback, since of all the characteristics of poverty, this one has a greater significance
 
-Inequality: one of the main advantages of labeling poverty as inequality is the nature of action taken towards inequality. Rather than treating the problem as an area to study and approach it with redundant theorizing and pseudoscience, it focuses on the gap between lowest socioeconomic group to the rest and reducing it.
-A few problems regarding this approach:
-  1) Fails to identify decadence in poverty, due to it's somewhat comparative and non-empirical nature. If 
+  Inequality: one of the main advantages of labeling poverty as inequality is the nature of action taken towards inequality. Rather than treating the problem as an area to study and approach it with redundant theorizing and pseudoscience, it focuses on the gap between lowest socioeconomic group to the rest and reducing it
+
+  A few problems regarding this approach:
+    1) Fails to identify decadence in poverty, due to it's somewhat comparative and non-empirical nature. (E.G.: reduction in wages)
+    2) Poverty and inequality are not necessarily equivalent, therefore it is important to distinct the too, to approach the problem with proper mindset
+
+
+Relative Deprivation: for a social structure, it is natural that poverty will be relative. The term is defined differently by different people. 
+
+  Feelings of Deprivation vs Conditions of Deprivation: while conditions of deprivation can be defined through a set of concrete attributes, such as possessions and income - feelings of deprivation should be part of the factor, explicit or implicit. In order to objectively understand conditions, it is important to objectively understand feelings
+
+  Reference Groups: it is important to choose a group against which the empoverished compare themselves to; it is rather difficult, due to many factors, including political activity, individual's personal reasons, etc. 
+
+  While the concept's focus is relativity, it does not undermine critical cases, such as universal famine
+
+Value Judgement: poverty being defined by society's beliefs
+
+Ultimately, standardizing and identifying poverty is a task that has points of arbitrariness, none the less it is a descriptive task that can be done in a sensible and logical manner, with proper recognition and treatment of arbitrariness.
+
+    
+
+
 
