@@ -10,4 +10,6 @@ Commodities vs Characteristics:
 
 Direct vs Income:
 
-  Direct method of identification of poor simly checks if an actual consumption basket satisfies basic needs. Income method, on the other hand, first defines minimum income required to meet basic needs, which is then used to identify if a person is poor.  
+  Direct method of identification of poor simly checks if an actual consumption basket satisfies basic needs. Income method, on the other hand, first defines minimum income required to meet basic needs, which is then used to identify if a person is poor
+
+  Direct method is advantageous in a way that it requires no assumption regarding consumption habits. Only if there is no information on consumption habits, a case for income method can be made
