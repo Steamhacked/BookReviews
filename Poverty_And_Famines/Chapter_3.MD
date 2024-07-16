@@ -32,9 +32,26 @@ Family Equivalence: Another uncertainty to address is identifying poverty of a f
 
     1) Constant Household Weight: Defining constant weight of a household, disregarding size, it is an inadequate method, due to obvious underestimation of suffering of families of the bigger size
 
-    2) Constant Human Weight: 
+    2) Constant Human Weight: Defining each individual's level of poverty, taking note of individual's family size and composition
+
     3) Adult-Human Equivalent Weight: Defining weight of a family based on the number of equivalent adults in it; While sensible on surface, it is somewhat unrepresentative, since suffering of each family members is at the interest, rather than suffering of hypothetical adult equivalents
 
+Income gap - amount of income shortcoming for a person to meet minimum income
+
+Relative Deprivation: Poverty of 2 empoverished individuals is not necessarily equivalent, and can be quantified through income gap, thus potentially making one appear to be poorer than another. In an example of money transfer between person 1 relatively deprived to person 2, the absolute-shortfall from poverty line decreases for person 1 and increases for person 2, thus obiously increasing overall relative deprivation (both in terms of income and utility)
+
+Critique of Standard Measurements of Poverty:
+
+  Head-Count: H = q/n; H -> poverty index, q -> empoverished part of population, n -> total population
+  Income-Gap Ratio: Net income shortfalls from poverty line. Possibly normalized by taking shortfall of average income of empoverished, from the poverty line
+
+  Head-Count: Fails to take into account severity of the poverty, equating groups that are just below from poverty line and groups that are extremely far below from it
+
+  Income-Gap: Fails to account for an actual number of empoverished
+
+  Combining both Methods, is not necessarily an adequate measurements, since it fails to account for income distribution among poor
+
+  
 
 
 
