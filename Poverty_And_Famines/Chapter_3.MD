@@ -20,4 +20,21 @@ Direct vs Income:
 
 Poverty line may not necessarily be uniform, as in certain regions, prices may vary depending on the group
 
+Family Equivalence: Another uncertainty to address is identifying poverty of a family as a population unit. There are several uncertainties that need to be resolved. Basic needs of different family members will vary, the distribution may not necessarily be adequate, etc.
+
+  Adult Human Equivalent: One possible method of resolving this is converting a family into the "adult-human equivalent". The issues with this approach is that it deals with various ambiguous factors, such as consumption behavior, maldistribution, validity of defined nutritional standards, etc.
+
+  Perception Method: Analyzing people's perception of how much extra income is required in order to remain at the same living standard with a bigger family. (Showed consistency in some research)
+
+  Ratio Method: Analyze families' income distribution (differently-sized families spending same percentage of income for food are considered same level of poverty)
+
+  Weighing of size-variant Families:
+
+    1) Constant Household Weight: Defining constant weight of a household, disregarding size, it is an inadequate method, due to obvious underestimation of suffering of families of the bigger size
+
+    2) Constant Human Weight: 
+    3) Adult-Human Equivalent Weight: Defining weight of a family based on the number of equivalent adults in it; While sensible on surface, it is somewhat unrepresentative, since suffering of each family members is at the interest, rather than suffering of hypothetical adult equivalents
+
+
+
 
